@@ -14,6 +14,7 @@
 > 点击下载即可
 - [PyQt5快速开发与实战.pdf](https://www.lanzoub.com/izmNg1x8fo0h)
 - [搬书匠-3041-Python爬虫实战入门教程-2018-中文](https://www.lanzoub.com/iGAvZ1x8fo6d)
+- [流畅的python](https://www.lanzoub.com/iLxHk1x8focj)
 
 ### 正则表达式
 - [正则表达式30分钟入门教程](https://deerchao.cn/tutorials/regex/regex.htm)
